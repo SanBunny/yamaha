@@ -1,0 +1,2 @@
+# yamaha
+power of study
